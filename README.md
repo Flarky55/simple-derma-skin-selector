@@ -1,7 +1,7 @@
 # Simple Derma Skin Selector
 Adds a widget to the Context Menu for simple UI skin selection
 
-[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/1?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=1)
+[![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3647731518?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3647731518)
 
 ## Console Variables
 | Name | Description |
