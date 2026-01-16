@@ -1,0 +1,21 @@
+[h1]Simple UI Skin Selector[/h1]
+[url=https://github.com/Flarky55/simple-derma-skin-selector][img]https://img.shields.io/badge/GitHub-333?logo=github[/img][/url]
+
+Adds a widget to the Context Menu for simple UI skin selection
+
+It also reloads the Spawn Menu on select, so there's less chance of UI elements being drawn incorrectly
+
+[h2]Console Variable[/h2]
+[table]
+ [tr]
+  [th]Name[/th]
+  [th]Description[/th]
+ [/tr]
+ [tr]
+  [td]derma_skin <string>[/td]
+  [td]Forces Derma to use specified skin[/td]
+ [/tr]
+[/table]
+
+[h2]Lua stuff for computer geeks[/h2]
+It also adds an independent function [b]derma.SetSkin( string name )[/b] in case anyone ever needs it.
