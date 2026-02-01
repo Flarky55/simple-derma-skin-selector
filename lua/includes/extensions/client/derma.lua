@@ -18,4 +18,6 @@ function derma.SetSkin( name )
     SetSkin( vgui.GetWorldPanel(), name )
 
     RefreshSkins()
+
+    hook.Run( "DermaSkinChanged", name )
 end
