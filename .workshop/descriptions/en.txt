@@ -5,6 +5,10 @@ Adds a widget to the Context Menu for simple UI skin selection
 
 It also reloads the Spawn Menu on select, so there's less chance of UI elements being drawn incorrectly
 
+[h2]Conflicts[/h2]
+This addon conflicts with other addons that provides UI skin changing feature
+[i]Specifically with addons that remove all "ForceDermaSkin" hooks and adds their own[/i]
+
 [h2]Console Variable[/h2]
 [table]
  [tr]
